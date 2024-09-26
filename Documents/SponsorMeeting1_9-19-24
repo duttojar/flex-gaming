@@ -1,0 +1,89 @@
+Flex:
+* Flexible on what they give us and will cover whatever we don't want to do
+* Building models that correlate gamer data from a steam profile
+    - Includes achievement data (flawed)
+    - Rereleases, expansions, ports
+    - Wildly non-standard
+    - Record of something that happened in game
+
+Product:
+- Larger scope product
+- Flex 2 years old
+- Building models that correlate gamer data from a steam profile
+    - Includes achievement data (flawed)
+    - Rereleases, expansions, ports
+    - Wildly non-standard
+    - Record of something that happened in game
+- Reduce all a video games behaviour to a series of a singular data type
+- Pattern recognition systems out of that dataset, identifiable person to person
+- Not reliably good at predicting anything you want
+- Build on top of this dataset
+- Advantage
+    - Lots of data from digital footprint
+- Games data represents actions —> actively generated
+    - Relevant to who we are / how we act
+- Core of technology is straightforward
+    - Set of 19 models each for different attribute
+    - Problem-solving, grit, logic, etc
+- Series of large model prompts to classify data according to those attributes
+- Find the score assigned by LLM in video game achievement patterns
+- 19 trained neural networks —> modest dataset
+    - Low loss ratio
+    - Score for the ability
+- Sufficient for predictions the clients care about
+- 2 Repos
+    - Python
+        - Handles API, handles calls
+        - Little security no authentication, not sensitive
+            - Beginner work for security
+        - Connects with database
+        - Second API hosts models
+            - Pure ML
+            - Lots of iteration
+            - Make new ones, better training, different data types
+        - Functional Product oriented RESTful API
+            - More versatile functionality
+    - Frontend
+        - Next framework
+        - Generates assessment on demand based on their steam data
+        - Proof of concept
+        - Uses API from backend
+            - Lots of stuff to build on top of it
+            - Front end infra
+        - Could be served through mobile or in Discord
+        - Flex Preference
+            - Check in as frequently/infrequently we need to
+            - Assigned opportunities to work as tickets
+            - Small part of the infra or codebase to work on
+            - Push directly into production codebase
+            - Based on how they do it
+            - ‘Engineering Team’ is mostly just him
+
+TA Notes:
+
+Some questions worth asking:
+* Who are the users of the platform (recruiters, gamers, etc)? What is the problem they have and want to solve with this platform?
+
+* What does the website look like? Is there a design document?
+
+* Any other documentation?
+
+* Do they plan to collect more data from gamers or is the dataset complete? Do they want the platform to have a feature that allows users to connect their steam accounts to the system?
+
+* Besides the surface steam account data (games, play time, achievements), do they use any data from inside the game? Like gaming patterns? How does that work?
+
+* I think the acceptance criteria should come from the sponsor because they are the ones talking to potentials users. Have a list of the "minimum" acceptance criteria (like a registration page, analytics page, model performance metrics, etc) and maybe some features that may be good to have (like a feedback system for the model based on user experience for flexible learning, use your imagination).
+
+* Define what a complete successful product is from the client's perspective. "It is a website that allows to do A B C and get this and that analysis of this data... You can create/update/delete an account, user data is managed safely (define safely), we allow for google auth...", etc. The technical requirements should be very detailed and concrete.
+
+Answering these questions will help you formulate a solid project description and assign technical tasks for the team.
+
+About the roles, it's ok for everybody to want to do machine learning, but from what we know right now you'll probably want at least two people on the non-ML backend (managing API, database, etc) and one person on the frontend. 
+    * Noah seems to have naturally taken on the role of the project manager 🙂
+    * Since Daunte is interested in security, I think it will be useful for him to take on the backend and start with tasks like user management and authentication. 
+    * Jared mentioned being interested in the general pipeline of how the models work so I think maybe he can be responsible for the deployment process, like where the services are actually hosted and how the models are delivered to the servers and connected to the backend 
+    * Maxwell seems to be interested  in frontend, if I got it right! 
+
+These are my thoughts, you don't have to assign the roles like that, but maybe this will help
+
+Regardless of the roles, you might have moments where every single person needs to help with one big task, so it doesn't mean you'll be locked out of everything else
