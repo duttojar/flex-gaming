@@ -1,0 +1,41 @@
+Status:
+	• Everything going fine
+	• Finishing project charter
+	• Waiting for more details from Jonathan
+	• Meeting every end of the month
+	• Waiting for more details to specify the charter
+
+Charter signoff due end of the week?
+
+Flex
+	• Work seems like it will be on the basis of tickets
+
+ToDo:
+	• Make a board for our own tasks on top of his assigned ones
+	• His job - tell us what he wants
+	• Our job - make the actual project happen
+	• Who are the true users?
+	• What credentials will recruiters need from possible recruits
+	• Any administration with more capabilities?
+	• Exact descriptions of tasks
+	• Access to Flex github
+	• LIST OF TECHNICAL DELIVERABLES
+		○ Training models
+		○ API
+		○ Website frontend
+		○ Data pipelines
+		○ Model delivery methods
+	• git.ignore file
+
+Assumptions:
+	What libraries are we using, methodologies for LLM, data from steam
+	Get specific
+	Technical assumptions
+		it is possible to infer certain personality qualities from steam data
+		___ data will be enough to do ___
+		This type of achievement indicated this type of attribute
+Store docs from Jonathan in Github
+
+GET MORE INFORMATION
+	THEN START WORKING ON DESIGN
+		• Deliverables, metrics, acceptance criteria
