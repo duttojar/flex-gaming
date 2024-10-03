@@ -1,3 +1,6 @@
+Attendance:
+    * Everyone attended
+
 Should be starting requirements document
 	• Still need more information
 
