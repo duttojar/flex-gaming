@@ -1,0 +1,31 @@
+Should be starting requirements document
+	• Still need more information
+
+Julio messaged again
+	• No response yet
+	• Julio will email tomorrow morning if not answered yet
+	• And Whatsapp
+
+Changes to be made:
+	• Scope
+	• Assumptions
+	• Pretty much everything
+
+Flex Website:
+	• Messy, hard to find information
+		○ Possibly use that for charter changes
+	• Ran demo
+		○ Outputs long list of games, achievements, decimal numbers
+	• Other data sources
+		○ Riot, Xbox?
+	• Does it work with a steam account set to private?
+		○ Runs to infinity
+
+Diagrams
+	• Put on charter? Requirements document?
+
+Brainstorm Ideas for Requirements for next meeting
+	• Assuming access to everything
+
+Assuming this access
+	• Make final charter changes hopefully by Sunday
