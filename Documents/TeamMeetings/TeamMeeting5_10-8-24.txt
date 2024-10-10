@@ -1,0 +1,22 @@
+Attendance:
+	• All attended
+
+Requirements:
+	• Max created a draft based on flex API
+		○ ToDo: make changes
+
+Charter:
+	• Refine based on GitHub and new scope (model)
+	• Refined during meeting, final edits to be made before Sunday
+	• Also get signoff
+
+Model first, if it shows to be too short, add discord bot, if shows to be too short, add web app
+
+Find out why click sound on website and why the output for the model
+
+Discussed possibilities for new model
+	• Curiosity
+	• Risk-taking
+	• Resourcefulness
+	• Perception
+	• Ethical
