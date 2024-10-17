@@ -1,0 +1,25 @@
+Everyone attended
+
+Fixed timesheet system
+	• Have all on one page
+	• Have different tabs
+		○ Chose single sheet for everyone
+		○ New tab on same file for each week
+
+Discussed models, Flask, and Keras very generally - getting a better understanding
+
+Noah and Aiden researching neural network/models:
+	• High level overview by Sunday 10-20, detailed by next Sunday 10-27
+
+Everyone will provide a high-level document with their research findings for Sunday 10-16
+
+Leo and Max will try to get the model/website working locally
+	• Talk to jonathan about hosting
+	• Step by step guide of how to run locally
+
+Meeting with jonathan on Halloween
+
+
+
+
+	

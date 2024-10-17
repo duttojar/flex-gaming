@@ -1,0 +1,21 @@
+Progress:
+	• A lot more communications from Jonathan
+	• Project: create a new model
+		○ Expansion to front end/Discord API
+		○ Use all models to create personality predictor "what type of person are you"
+		○ Model: perception
+			§ Catching things others missed
+Timesheets:
+	• In future, use google sheets
+
+Task board:
+	• 6 issues so far, need to get more specific and assign work
+
+Daunte and Jared - research API Auth
+	• Industry standard
+	• What it actually looks like
+	• Find out what web service we use
+
+Created task document
+	• To be completed by Sunday (high level)
+	• Fully done by next Sunday?
