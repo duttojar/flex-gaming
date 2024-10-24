@@ -1,0 +1,34 @@
+All attended
+
+Leo was able to run the demo
+	• Needed to install Node and Yarn
+	• Tested API on Postman
+		○ Only demo works at the moment
+		○ Worked on Postman but not on beta/local version
+	• To Figure Out
+		○ What is a successful API call
+Same for Maxwell
+	• Got the demo running, ran forever
+
+All tickets assigned
+	• Get done for next week
+	• Two possible stretches
+
+More in-depth research on respective sections for Sunday
+
+Jared and Daunte to get access to Render - API
+DigitalOcean - DB - hopefully everyone will get access, if not, "data scientist"
+
+Tasks:
+	• Tickets - Julio, Aiden, Noah, Daunte, Max, Jared
+		○ Noah to also do more research about model
+	• Try to find bug in website
+		○ "Accessing API" - then runs forever
+
+Next Step for Models:
+	• How do we get achievement list for perception.py
+
+
+	
+
+
