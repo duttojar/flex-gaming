@@ -1,0 +1,17 @@
+Everyone attended
+
+All the issues for this week somewhat fall into one process
+	• Julio will take the dataset creation process
+	• Aiden will take the combining programs into single sequence
+	• Max and Leo - look at DigitalOcean
+		○ Maybe look at stretch tasks
+	• Daunte and Jared - look at Render
+		○ Maybe look at stretch tasks
+	• Noah will be there as a resource
+		○ Help with training stretch and dataset creation
+
+Perceptiveness model coming along very well
+Potential future scopes
+	• Discord
+	• Website
+	• Model wrapping all other models into a personality test type program
