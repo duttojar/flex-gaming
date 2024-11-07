@@ -1,0 +1,27 @@
+Everyone attended - Jared had a concert tonight
+
+Last week
+	• Aiden - all in one training document
+	• Leo - digital ocean
+		○ Trying to link local access to digital ocean
+	• Maxwell - digital ocean
+		○ Did issues 24 and 25 concerning digital ocean
+			§ For 25, Jonathan got error
+				□ Max will look back over that and talk to Jonathan
+		○ Hasn’t found the local digital ocean link either
+			§ Will bring it up in next meeting
+			§ Maybe ask him to make more videos
+	• Daunte - looked around render
+		○ We can create a preview of whatever were working on through the pull request
+			§ Can be useful for requests with a lot of changes
+		○ Couldn’t figure out separate deployment
+	• Jared - sent a document on his findings from render
+	• Noah - helped Julio with creating perceptiveness model
+
+This week
+	• Again, many tasks that rely on the previous task
+	• Jared and Daunte will take authentication and API issues (3)
+	• Maxwell will ask about model assessment issue
+	• Leo will look into mega model issue
+	• Julio will create the final model
+	• Aiden and Noah will handle staging and production
