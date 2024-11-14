@@ -1,0 +1,14 @@
+Everyone attended
+
+Still trying to figure out the bug for perception
+
+Julio meeting with Anya and Leo tomorrow at 2, maybe earlier
+	Then catch Max up
+	
+Noah looking into digital ocean so daunte and jared can implement users
+Leo going to work on stretch goal
+Aiden, Noah, and Julio continuing to work on model bug and staging/prod, explain render to daunte and jared
+Max working on bug in beta-engine
+
+
+
