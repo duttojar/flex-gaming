@@ -1,6 +1,6 @@
 Everyone here:
 	• Julio had a concert (notified far in advance)
-	• Daunte also could not make it
+	• Daunte had a funeral (notified far in advance)
 
 Updates:
 	• Dealing with major requirements issues when trying to debug locally
