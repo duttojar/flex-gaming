@@ -1,0 +1,38 @@
+Everyone here:
+	• Julio had a concert (notified far in advance)
+	• Daunte also could not make it
+
+Updates:
+	• Dealing with major requirements issues when trying to debug locally
+	• Also dealing with auth issues (.env file blank but login route uses it)
+	• Noah created a guide for digital ocean
+	• Leo still looking into overarching model
+		○ Jonathan asked him to think of ways to combine three of the models
+		○ Leo thinks tweak to the tagging process could do that
+			§ Maybe a scale for grit/problem solving/perception
+			§ Would be a very large training process, so maybe use Google Collab
+				□ Could cost
+		○ Also looked into more models that could be used to create an enwrapping personality report (NBTI)
+	• Deadline: 
+		○ model finished and in full production by end of semester.
+
+Questions for tomorrow:
+	1. Requirement contradictions/python version possibly
+	2. Where does the input data come from for API calls
+		a. If it comes from beta engine, what is the response so that we could replicate
+	3. What he wants us to do about auth/.env (either take out line or create .env)
+	4. Retraining for perception (new description)
+
+Auth Questions:
+	1. Using digital ocean to create users
+	2. Different auths for all of us so that we don't have to use the same one
+
+Leo Questions:
+	1. How crazy does he want to push this mega model?
+		○ Combine them all or something else
+	2. What is next? Pros and Cons for options
+		○ Discord?
+		○ Mega model?
+		○ Touching up on everything?
+		○ Website?
+	
