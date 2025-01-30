@@ -1,0 +1,23 @@
+Everyone attended
+
+Questions for tomorrow in Google Doc
+
+Discord Bot:
+* He already has one - use it or make it better?
+* Create, then make scalable
+    * Render, AWS/Google/Azure
+
+New chats for sub teams
+
+New tasks on flex-gaming repo issues
+
+API Team:
+    * Documentation - Max
+    * Discord Bot - Noah
+
+Auth Team:
+    * JWT test - Jared
+    * Precommit hook for models - Daunte
+    * Both need access to beta-engine
+
+
