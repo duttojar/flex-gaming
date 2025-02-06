@@ -1,0 +1,42 @@
+Everyone attended
+
+Sponsor meeting Thursday, 2-13 at 9:30
+
+Everyone working on tasks
+
+Aiden
+* will have POST shapes done by next meeting
+
+Max
+* working on docker file
+
+Jared
+* writing tests
+* sending beta-engine zip in discord
+
+Daunte
+* precommit hooks
+    * already ignoring env file... so...
+        * looking for better implementation
+
+Noah
+* will build from their current bot
+* now has access to discord repo - getting familiar
+* adding features this week
+
+Leo
+* some shapes documented for GET
+* will also be done by next week
+
+Julio
+* testing file for models
+* will be done by next week
+
+Goal Setting Document
+* Aiden - get any job or internship after college
+* Julio - get a house, move to a new state
+* Jared - run the Fort Collins marathon
+* Daunte - complete entry level certifications for cyber security
+* Maxwell - develop for Civilization V
+* Leo - work in AI development after college
+* Noah - make enough money to live stress free while doing something he loves
