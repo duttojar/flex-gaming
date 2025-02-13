@@ -1,0 +1,28 @@
+Aiden got food poisoning
+
+Sponsor meeting Thursday, 2-13 at 9:30
+
+Everyone working on tasks
+
+Leo
+* writing git responses
+
+Jared
+* already had a team meeting with Anya
+
+Noah
+* writing comments & documenting
+* testing TestBot
+
+Daunte
+* working on implementing the beta-engine side of our jwt from models
+* going to ask Jonathan to add the username and password environment variables to the render storage so we can just call that when we make requests from models
+
+Julio
+* started creating a template
+* testing the perception model
+* trying to find out where the original input data is
+
+Max
+* docker file done
+* sending docker file zip in discord
