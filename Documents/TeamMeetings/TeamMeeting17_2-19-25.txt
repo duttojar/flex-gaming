@@ -1,0 +1,30 @@
+Everyone attended
+
+Julio - working on pulling personality types from steam data, almost done
+
+Leo - made a new google form and script to pull from google sheet
+    * send out to friends if possible
+    * maybe get Paradise to send out to the class
+
+Aiden - finish validation, then find celebrities with steam data and personality types available
+
+Daunte - wrote script to verify auth for beta-engine without needing to take out security
+    * 0auth next
+
+Jared - wrapped up testing for login and all endpoints (62)
+    * maybe add to actions so it gets tested every push
+    * all tests pass right now
+    * input goes through if at least the size of achievements
+        * maybe implement something for that? (models team)
+
+Max - created docker for beta, finishing up setting up database
+        * DiscordUser, Game, GameAcievement, Recipe, UserAchievement (tables)
+        * trying to get docker working and data for database
+
+Noah - getting access to env variables from Jonathan and needs more info on what he wants
+    * bot already fully functional, so add extraneous stuff or something like (get recent achievements)
+    * got the model to a point where he needs less info from Jonathan
+        * doesn't have access to another repo he needs and the discord API key
+    * added function descriptions for discord repo
+    * setting up bot in discord developer
+        * needs interactions endpoint url but ngrok is confusing
