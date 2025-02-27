@@ -1,0 +1,44 @@
+Everyone attended
+
+TA meetings have been good so far - Models meeting tomorrow
+
+Noah waiting for Jonathan to respond
+    * looking into getting his own steam API key
+    * needs the base url to get the bot fully functional
+    * cleaned docker file
+    * created docker compose for bot
+    * changing some stuff around in bot.py
+    * !deploy_start_assessment working
+    * wants to add most recent achievements with attribute labels
+
+Julio
+    * ran into an issue but it's fixed now???
+    * attributes apply to a lot of personality types
+        * will change logic for tagging types 
+
+Leo
+    * got 16 responses
+    * sent emails to teachers, they havent posted yet
+    * wrote python script for results, so we just need more responses
+
+Aiden
+    * will finish validation and get pro gamer information before meeting tomorrow
+    * will also help Julio fix his errors tonight
+
+Jared
+    * github actions working
+        * builds a container and runs tests
+    * will add more fail tests this week
+    * will also add docker image saving
+
+Max
+    * redid database initialization
+    * got schema script from Daunte
+    * will rewrite in sqlalchemy - makes it a visual model
+    * will document what database notations and variables mean
+
+Daunte
+    * drafted a comprehensive write up on possible security options for Jonathan
+    * beta-engine has bad security right now
+    * waiting on Jonathan's answer
+    * will also help max with database migration/python/sql
