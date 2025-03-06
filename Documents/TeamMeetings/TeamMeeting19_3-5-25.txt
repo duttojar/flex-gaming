@@ -1,0 +1,44 @@
+Everyone attended
+
+Daunte
+    - security team waiting for response from Jonathan on how he wants to authenticate for beta-engine
+    - will start working after he responds based on what Jonathan decides
+
+Jared
+    - implemented some pytests for invalid input
+
+Noah
+    - got his own steam api key
+    - can't test it yet because needs base url
+    - has been talking with Jonathan
+        - bot is referencing beta-engine v2 right now
+        - wants to rollback to beta-engine
+        - doesn't know what the endpoints look like right now
+    - bot can find steam username now
+        - debugging now - something with base url
+
+Maxwell
+    - finalizing the database
+    - started working on sqlalchemy
+    - replaced current init with alchemy code in __init__.py
+        - daunte also did that lol
+    - got chat GPT screenshots from anya for docker/alchemy stuff
+    - automate database migration alembic
+
+Aiden
+    - finished input validation
+    - found ~7 pro gamers info
+
+Leo
+    - got another 2 responses
+    - wrote code to drop timestamp
+    - made some graphs for personality distribution
+    - matrix corresponding games to personalities
+    - made a QR code, going to put around campus, csel, etc.
+
+Julio
+    - updated file to classify MBTI types to attributes
+    - labels are repetitive right now, going to rethink that
+        - either add weights or correspond traits with letters to get less similar tags
+    - added to pull user.csv, predict all models, look at traits, get the mean of scores, and keep the highest
+    - prep_users file takes all models and gives scores for all users
