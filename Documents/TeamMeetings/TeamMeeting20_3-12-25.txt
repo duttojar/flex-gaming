@@ -1,0 +1,48 @@
+Everyone attended
+
+Julio
+    * updated training data to not have negative values
+        * still get values over 1 though
+    * only got 13 personalities so need to look into that
+        * 13 would not be good training data
+    * onto model creation
+
+Aiden
+    * finishing model creation with Julio
+    * changed "model" calls to "apmv2" in repo
+        * changes in aiden-apmv2 branch
+
+Leo
+    * got QR code created with poster to put around canvas
+    * got 1 more response
+
+Max
+    * working on alembic
+    * currently troubleshooting containers not communicating properly
+
+Jared
+    * finished up tests for bad inputs and authorization
+        * working
+    * worked on GitHub actions, added some more
+        * needs access to registry (talking to Jonathan)
+    * will move models to different repo so things like achievements don't get called too much
+
+Noah
+    * got successful call from steam API
+    * set up user_sessions variable to hold users data throughout their session
+        * prevents calls to beta-engine over and over
+    * getUserByDiscordId needed to fetch steam id from discord
+    * made some more views for the bot 
+        * e.g. get flex assessment or get recent achievements
+        * get recent achievements works (game id, game name, total time, time in past two weeks)
+    * next step is to implement getUserByDiscordId
+
+Daunte
+    * working with max on sqlalchemy
+        * almost fully complete (need insights and logs)
+            * logs accesses table (don't know where it is)
+            * same with discord_users
+    * made json to implement dynamic authentication
+    * will look through beta-engine for 'models' naming
+    * will finish sqlalchemy
+    * will help noah with getUserByDiscordId
