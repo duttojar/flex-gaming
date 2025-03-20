@@ -1,0 +1,9 @@
+Everyone except Jared attended
+    * Jared notified us far in advance
+
+Filled out registration form
+    * Just need to finalize it by 4-4
+
+Noah got recent achievements to work
+
+Database migration should work now
