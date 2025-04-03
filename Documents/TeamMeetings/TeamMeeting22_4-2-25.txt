@@ -43,3 +43,6 @@ Leo
 - 15 users with achievements
 - will then be used for validation data
 - having issue with API calls taking long because every game and every achievement is looked through
+
+Created final tasks for each team
+    - we got this
