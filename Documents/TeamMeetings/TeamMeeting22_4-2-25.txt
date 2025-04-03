@@ -1,0 +1,45 @@
+Everyone attended
+
+Julio
+- finished training data
+- making readme
+
+Aiden
+- working on model
+- code got messed up but will be done for next week
+
+Noah
+- bot prompts start assessment, get achievements
+- get achievements prints most recent achievements from past 2 weeks
+- working on start assessment
+- would like enriched achievements to be checked for given achievements
+    - pull label if in list
+    - if not, tag and add missing ones to enriched_achievements.csv for future models
+    - could maybe instead use database
+    - or create a new table to use for discord_achievements_enriched
+- got user sessions working (depending on getByID from beta-engine)
+
+Max
+- alembic migrations work without error now
+    - API container couldn't connect to database container, now it does
+- has not tested API calls to the database
+
+Jared
+- created package for docker image for db
+- changes to main now automatically update image
+- created models-db repo
+    - exposes Daunte's code to then use other repos
+- will add instructions
+
+Daunte
+- local testing works for models
+    - set up for Jonathan to push to main
+- hasn't heard from Jonathan whether he can use alchemy instead of current code
+- renaming is good once Jonathan updates Render
+- pretty much done with security
+
+Leo
+- data collection done
+- 15 users with achievements
+- will then be used for validation data
+- having issue with API calls taking long because every game and every achievement is looked through
