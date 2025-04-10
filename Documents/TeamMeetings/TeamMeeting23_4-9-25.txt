@@ -1,0 +1,38 @@
+Everyone attended except Julio
+    - he let us know far in advance
+
+Julio
+    - finished input data
+    
+Aiden
+    - tweaking model
+    - training is being weird
+    - will have it done for TA meeting
+
+Noah
+    - discord bot grabs recent achievements from past two weeks
+    - bot now runs all achievemnts through chatGPT to tag them
+        - displays labels to the user
+        - lists game, achievement, description, when unlocked, and attribute tags
+        - label_achievement() - same design as enrich_achievments but tweaked
+    - also working on endpoints for beta-engine team and bugfixing docker
+
+Daunte
+    - been working on endpoints for Noah in beta engine
+        - alchemy and raw sql - still waiting on Jonathan for that
+
+Maxwell
+    - changed docker compose file to use the same url as env variables
+    - testing API calls
+        - most result in an error with tables
+
+Jared
+    - trying to get docker to work - many many confusing errors
+    - pushed models_DB submodules
+
+Leo
+    - got 3 more responses
+    - dropped game attached to achievements
+    - 18 valuable responses now
+    - wants 2 more if possible for a solid 20
+    - only 11 types are covered
